@@ -163,7 +163,6 @@ tqdm==4.62.3
 traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
 tweepy==4.5.0
 tweet-preprocessor==0.6.0
-twitpy==1.0.3
 typed-ast @ file:///C:/ci/typed-ast_1624953785070/work
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
 tzdata==2021.5
